@@ -1,0 +1,34 @@
+Important!!!
+All files should be located in the same folder.
+
+1) To run file 'Step One: Web scraping'
+You need packages:
+
+2) To run file 'Step_Two_Transformation_Description.py'
+You need packages:
+pandas == 1.5.2
+logging
+os
+
+You need 'Classes' package:
+Class_FileManager.py
+Class_DataTransformer.py
+Class_DataDescriptor.py
+
+
+If you want to skip the Step One, you can also use this csv file: flight_prices_september.csv
+
+3) To run file 'Step_Three_Search_Graphs.py'
+You need packages:
+pandas == 1.5.2
+mathplotlib == 3.6.2
+seaborn == 0.12.1
+logging
+
+You need 'Classes' package.
+Class_FileManager.py
+Class_DataDescriptor.py
+Class_Search.py
+
+If you want to skip Steps One and Two, you can also use this csv file: searcher_one.csv
+
