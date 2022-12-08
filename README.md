@@ -4,8 +4,6 @@ This repo contains the full code splitted on three modules: Step_One, Step_Two, 
 Each of them can be used separately.
 Please, read the Requirements file to know, what packages, classes and files you need for each step.
 
-We recommend you to download a whole folder.
-
 ### Step One: 
 * Web Scraping 
 
@@ -25,3 +23,8 @@ We recommend you to download a whole folder.
   1. the average flight price per date,
   1. number of flights per airline,
   1. airline vs averagePrice
+
+## Important!!!
+All files should be located in the same folder.
+
+We recommend you to download a whole folder instead of separate files.
