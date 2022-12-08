@@ -4,7 +4,7 @@ import platform
 
 
 class FileManager:
-    def __init__(self, name_of_file_with_data='flight_prices_september.csv'):
+    def __init__(self, name_of_file_with_data='flights_data.csv'):
         self.name_of_file_with_data = name_of_file_with_data
 
     def open_data(self):
