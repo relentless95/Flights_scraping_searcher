@@ -1,8 +1,7 @@
 ## Flights_scraping_searcher
 
 This repo contains the full code splitted on three modules: 'step_one.py', 'step_two.py', 'step_three.py'.
-Each of them can be used separately.
-Please, read the 'requirements' file to know, what packages, classes and files you need for each step.
+Please, read the 'requirements' file to know, what packages you need.
 
 #### Important!!! All files should be located in the same folder.
 We recommend you to download a whole folder instead of separate files.
