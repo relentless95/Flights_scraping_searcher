@@ -56,7 +56,7 @@ class DataDescriptor:
 
     def plot_average_price_per_airline(self):
         # Airline vs AveragePrice
-        dvsp1 = sns.barplot(x='airline_names', y='price', ci=None, data=self.df)
+        dvsp1 = sns.barplot(x='airline_names', y='price', errorbar=None, data=self.df)
         dvsp1.set_title('Airline V/S Price')
         dvsp1.set_ylabel('Price (€)')
         dvsp1.set_xticklabels(dvsp1.get_xticklabels(), rotation=80)
