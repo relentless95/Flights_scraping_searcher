@@ -1,8 +1,8 @@
 ## Flights_scraping_searcher
 
-This repo contains the full code splitted on three modules: step_one, step_two, step_three.
+This repo contains the full code splitted on three modules: 'step_one.py', 'step_two.py', 'step_three.py'.
 Each of them can be used separately.
-Please, read the requirements file to know, what packages, classes and files you need for each step.
+Please, read the 'requirements' file to know, what packages, classes and files you need for each step.
 
 ### Step One: 
 * Web Scraping 
