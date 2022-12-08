@@ -4,6 +4,9 @@ This repo contains the full code splitted on three modules: 'step_one.py', 'step
 Each of them can be used separately.
 Please, read the 'requirements' file to know, what packages, classes and files you need for each step.
 
+#### Important!!! All files should be located in the same folder.
+We recommend you to download a whole folder instead of separate files.
+
 ### Step One: 
 * Web Scraping 
 
@@ -23,8 +26,3 @@ Please, read the 'requirements' file to know, what packages, classes and files y
   1. the average flight price per date,
   1. number of flights per airline,
   1. airline vs averagePrice
-
-## Important!!!
-All files should be located in the same folder.
-
-We recommend you to download a whole folder instead of separate files.
