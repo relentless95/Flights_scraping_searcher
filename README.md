@@ -1,6 +1,6 @@
 ## Flights_scraping_searcher
 
-This repo contains the full code splitted on three modules: Step_One, Step_Two, Step_Three.
+This repo contains the full code splitted on three modules: step_one, step_two, step_three.
 Each of them can be used separately.
 Please, read the Requirements file to know, what packages, classes and files you need for each step.
 
