@@ -2,7 +2,7 @@
 
 This repo contains the full code splitted on three modules: step_one, step_two, step_three.
 Each of them can be used separately.
-Please, read the Requirements file to know, what packages, classes and files you need for each step.
+Please, read the requirements file to know, what packages, classes and files you need for each step.
 
 ### Step One: 
 * Web Scraping 
