@@ -35,6 +35,9 @@ class DataDescriptor:
         # Create a plot that shows the average flight price per date
         df_date = self.df.groupby('start_date')['price'].mean()
         plt.figure(figsize=(16, 8))
+        plt.xlabel('Date')
+        plt.ylabel('price ($)')
+        plt.title('Price of Flight Vs Date')
         plt.plot(df_date)
         plt.xticks(rotation=85)
         return plt.show()
@@ -53,8 +56,8 @@ class DataDescriptor:
 
     def plot_average_price_per_airline(self):
         # Airline vs AveragePrice
-        dvsp1 = sns.barplot(x='airline_names', y='price', data=self.df)
-        dvsp1.set_title('Airline V/S PRICE')
-        dvsp1.set_ylabel('Price')
+        dvsp1 = sns.barplot(x='airline_names', y='price', ci=None, data=self.df)
+        dvsp1.set_title('Airline V/S Price')
+        dvsp1.set_ylabel('Price (€)')
         dvsp1.set_xticklabels(dvsp1.get_xticklabels(), rotation=80)
         return plt.show()
