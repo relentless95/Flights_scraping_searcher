@@ -5,7 +5,7 @@ if __name__ == '__main__':
 
     # Open a file
     from Classes import Class_FileManager
-    data_file = Class_FileManager.FileManager(name_of_file_with_data='flight_prices_september.csv')
+    data_file = Class_FileManager.FileManager(name_of_file_with_data='flights_data.csv')
     df = data_file.open_data()
     logging.info('%s Initial csv is opened')
 

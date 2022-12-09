@@ -1,0 +1,10 @@
+Libraries:
+pandas == 1.5.2
+mathplotlib == 3.6.2
+seaborn == 0.12.1
+
+'Classes' package:
+Class_FileManager.py
+Class_DataTransformer.py
+Class_DataDescriptor.py
+Class_Search.py
