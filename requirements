@@ -1,10 +1,30 @@
 Libraries:
 pandas == 1.5.2
-mathplotlib == 3.6.2
+matplotlib == 3.6.2
 seaborn == 0.12.1
+selenium == 4.6.0
+beautifulsoup4 == 4.9.3
 
 'Classes' package:
-Class_FileManager.py
-Class_DataTransformer.py
-Class_DataDescriptor.py
-Class_Search.py
+FileManager.py
+DataTransformer.py
+DataDescriptor.py
+Search.py
+Task.py
+Parser.py
+
+Apps:
+Google Chrome
+
+step_one:
+Windows OS only!
+
+# Additional instructions for the webscraper
+instructions!:
+if you do not have the above
+# install selenium with: pip install -U selenium
+# example below uses the chrome driver to work. Alternatively you can adjust the code to run with another browser.
+# Go to https://pypi.org/project/selenium/ and download the appropriate version of the driver.
+# You can check your version of chrome with: chrome://version
+# set the driver path: the code below uses the relative file path
+# It is important that this file is located in the module folder together with the driver
