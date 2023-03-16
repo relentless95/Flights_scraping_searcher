@@ -1,1 +1,526 @@
 start_destination,end_destination,start_date,price,num_stops,airline_names,stop_cities,journey_duration,dep_time,dep_meridiem,arrival_time,arrival_meridiem
+MUC,MIA,2023-08-01,$509,2 stops,"Vueling, TAP AIR PORTUGAL","BCN, LIS",23h 45m,8:55,pm,2:40,pm
+MUC,MIA,2023-08-01,$773,1 stop,Delta,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-01,$784,1 stop,TAP AIR PORTUGAL,LIS,14h 35m,6:05,am,2:40,pm
+MUC,MIA,2023-08-01,$637,1 stop,TAP AIR PORTUGAL,LIS,24h 40m,8:00,pm,2:40,pm
+MUC,MIA,2023-08-01,$773,1 stop,Delta,ATL,18h 18m,10:25,am,10:43,pm
+MUC,MIA,2023-08-01,$876,1 stop,Delta,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-01,$962,1 stop,Turkish Airlines,IST,16h 35m,7:25,pm,6:00,am
+MUC,MIA,2023-08-01,$962,1 stop,Turkish Airlines,IST,18h 10m,7:15,am,7:25,pm
+MUC,MIA,2023-08-01,$663,1 stop,LOT,WAW,28h 00m,7:35,pm,5:35,pm
+MUC,MIA,2023-08-01,"$1,083",1 stop,Air Europa,MAD,14h 00m,10:45,am,6:45,pm
+MUC,MIA,2023-08-01,$773,1 stop,Delta,ATL,20h 15m,10:25,am,12:40,am
+MUC,MIA,2023-08-01,$880,1 stop,Air France,CDG,17h 05m,9:55,am,9:00,pm
+MUC,MIA,2023-08-01,$880,1 stop,Air France,CDG,19h 45m,7:15,am,9:00,pm
+MUC,MIA,2023-08-01,$968,1 stop,Delta,CDG,17h 05m,9:55,am,9:00,pm
+MUC,MIA,2023-08-01,$987,2 stops,Delta,"AMS, CDG",15h 10m,11:50,am,9:00,pm
+MUC,MIA,2023-08-01,$880,1 stop,Air France,CDG,19h 45m,7:15,am,9:00,pm
+MUC,MIA,2023-08-01,$569,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",26h 00m,6:40,pm,2:40,pm
+MUC,MIA,2023-08-01,$987,2 stops,Delta,"AMS, CDG",15h 10m,11:50,am,9:00,pm
+MUC,MIA,2023-08-01,$629,2 stops,"Lufthansa, TAP AIR PORTUGAL","CDG-ORY, LIS",22h 50m,9:50,pm,2:40,pm
+MUC,MIA,2023-08-01,$911,1 stop,Turkish Airlines,IST,21h 40m,2:20,pm,6:00,am
+MUC,MIA,2023-08-01,$614,2 stops,"Lufthansa, TAP AIR PORTUGAL","MAD, LIS",25h 10m,7:30,pm,2:40,pm
+MUC,MIA,2023-08-01,$968,1 stop,Delta,CDG,17h 05m,9:55,am,9:00,pm
+MUC,MIA,2023-08-01,$968,1 stop,Delta,CDG,19h 45m,7:15,am,9:00,pm
+MUC,MIA,2023-08-01,"$1,265",1 stop,KLM,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-01,"$1,476",1 stop,Lufthansa,FRA,12h 45m,8:00,am,2:45,pm
+MUC,MIA,2023-08-01,$607,2 stops,"Air Europa, TAP AIR PORTUGAL","MAD, LIS",25h 35m,7:05,pm,2:40,pm
+MUC,MIA,2023-08-01,"$1,269",1 stop,Air France,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-01,"$1,476",1 stop,Lufthansa,FRA,13h 45m,7:00,am,2:45,pm
+MUC,MIA,2023-08-01,$689,2 stops,LOT,"KRK, WAW",25h 35m,10:00,pm,5:35,pm
+MUC,MIA,2023-08-01,"$1,265",1 stop,KLM,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-01,"$1,357",1 stop,Delta,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-01,$689,2 stops,LOT,"KRK, WAW",25h 35m,10:00,pm,5:35,pm
+MUC,MIA,2023-08-01,"$1,083",2 stops,Delta,"AMS, JFK",17h 11m,11:50,am,11:01,pm
+MUC,MIA,2023-08-01,"$1,484",1 stop,United Airlines,EWR,13h 40m,9:30,am,5:10,pm
+MUC,MIA,2023-08-01,"$1,269",1 stop,Air France,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-01,$918,2 stops,"Icelandair, JetBlue","KEF, JFK",22h 38m,4:55,pm,9:33,am
+MUC,MIA,2023-08-01,$987,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-01,"$1,475",1 stop,SWISS,ZRH,14h 10m,9:05,am,5:15,pm
+MUC,MIA,2023-08-01,$987,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-01,"$1,357",1 stop,Delta,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-01,$987,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-01,$987,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-01,"$1,272",2 stops,KLM,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-01,$987,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-01,$968,2 stops,Delta,"AMS, JFK",22h 01m,7:00,am,11:01,pm
+MUC,MIA,2023-08-01,"$1,083",2 stops,Delta,"AMS, JFK",19h 36m,9:25,am,11:01,pm
+MUC,MIA,2023-08-01,$556,2 stops,"easyJet, TAP AIR PORTUGAL","LGW-LHR, LIS",22h 45m,9:55,pm,2:40,pm
+MUC,MIA,2023-08-01,$862,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-01,$862,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-01,"$1,269",2 stops,KLM,"AMS, ATL",17h 10m,9:25,am,8:35,pm
+MUC,MIA,2023-08-01,"$1,278",2 stops,Air France,"CDG, DTW",17h 00m,7:15,am,6:15,pm
+MUC,MIA,2023-08-01,"$1,272",2 stops,KLM,"AMS, JFK",17h 11m,11:50,am,11:01,pm
+MUC,MIA,2023-08-01,"$1,269",2 stops,KLM,"AMS, DTW",17h 15m,7:00,am,6:15,pm
+MUC,MIA,2023-08-01,$884,2 stops,Icelandair,"KEF, BOS",24h 36m,4:55,pm,11:31,am
+MUC,MIA,2023-08-01,"$1,361",2 stops,Delta,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-01,"$1,269",2 stops,KLM,"AMS, ATL",17h 35m,7:00,am,6:35,pm
+MUC,MIA,2023-08-01,"$1,475",1 stop,SWISS,ZRH,15h 30m,7:45,am,5:15,pm
+MUC,MIA,2023-08-01,$700,2 stops,"Lufthansa, TAP AIR PORTUGAL","DUS, LIS",24h 10m,8:30,pm,2:40,pm
+MUC,MIA,2023-08-01,$675,2 stops,"Lufthansa, TAP AIR PORTUGAL","DUS, LIS",25h 10m,7:30,pm,2:40,pm
+MUC,MIA,2023-08-01,$553,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",27h 10m,5:30,pm,2:40,pm
+MUC,MIA,2023-08-01,$595,3 stops,"Brussels Airlines, TAP AIR PORTUGAL","BRU, LHR, ...",25h 55m,6:45,pm,2:40,pm
+MUC,MIA,2023-08-01,"$1,269",2 stops,KLM,"AMS, JFK",17h 58m,7:00,am,6:58,pm
+MUC,MIA,2023-08-01,"$1,577",1 stop,"SWISS, Lufthansa",ZRH,14h 10m,9:05,am,5:15,pm
+MUC,MIA,2023-08-01,"$1,362",2 stops,Delta,"CDG, DTW",17h 00m,7:15,am,6:15,pm
+MUC,MIA,2023-08-01,"$1,357",2 stops,Delta,"AMS, ATL",17h 10m,9:25,am,8:35,pm
+MUC,MIA,2023-08-01,$704,2 stops,"Lufthansa, TAP AIR PORTUGAL","AMS, LIS",24h 30m,8:10,pm,2:40,pm
+MUC,MIA,2023-08-01,"$1,357",2 stops,Delta,"AMS, DTW",17h 15m,7:00,am,6:15,pm
+MUC,MIA,2023-08-01,$911,1 stop,Turkish Airlines,IST,25h 30m,10:30,am,6:00,am
+MUC,MIA,2023-08-01,$774,2 stops,LOT,"GDN, WAW",27h 25m,8:10,pm,5:35,pm
+MUC,MIA,2023-08-01,$774,2 stops,LOT,"GDN, WAW",27h 25m,8:10,pm,5:35,pm
+MUC,MIA,2023-08-01,"$1,479",1 stop,Lufthansa,EWR,16h 04m,9:30,am,7:34,pm
+MUC,MIA,2023-08-01,"$1,479",1 stop,"Lufthansa, United Airlines",JFK-EWR,16h 11m,12:45,pm,10:56,pm
+MUC,MIA,2023-08-01,$695,2 stops,"Lufthansa, TAP AIR PORTUGAL","FRA, LIS",23h 40m,9:00,pm,2:40,pm
+MUC,MIA,2023-08-01,"$1,484",1 stop,United Airlines,EWR,16h 04m,9:30,am,7:34,pm
+MUC,MIA,2023-08-01,"$1,376",2 stops,Delta,"AMS, CDG",17h 05m,7:00,am,6:05,pm
+MUC,MIA,2023-08-02,$495,1 stop,TAP AIR PORTUGAL,LIS,14h 00m,1:35,pm,9:35,pm
+MUC,MIA,2023-08-02,$604,1 stop,TAP AIR PORTUGAL,LIS,14h 35m,6:05,am,2:40,pm
+MUC,MIA,2023-08-02,$895,1 stop,Lufthansa,FRA,11h 45m,9:00,am,2:45,pm
+MUC,MIA,2023-08-02,$794,1 stop,Iberia,CLT,13h 31m,9:15,am,4:46,pm
+MUC,MIA,2023-08-02,$773,1 stop,Delta,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-02,$660,1 stop,Air France,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-02,$663,1 stop,LOT,WAW,16h 35m,7:00,am,5:35,pm
+MUC,MIA,2023-08-02,$773,1 stop,Delta,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-02,$854,1 stop,TAP AIR PORTUGAL,LIS,16h 15m,11:20,am,9:35,pm
+MUC,MIA,2023-08-02,$777,1 stop,Air France,CDG,17h 05m,9:55,am,9:00,pm
+MUC,MIA,2023-08-02,$582,2 stops,"Air Europa, TAP AIR PORTUGAL","MAD, LIS",16h 50m,10:45,am,9:35,pm
+MUC,MIA,2023-08-02,$830,1 stop,"Lufthansa, TAP AIR PORTUGAL",LIS,14h 00m,1:35,pm,9:35,pm
+MUC,MIA,2023-08-02,$997,1 stop,Air France,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-02,"$1,041",1 stop,Air Europa,MAD,14h 00m,10:45,am,6:45,pm
+MUC,MIA,2023-08-02,$865,1 stop,Delta,CDG,17h 05m,9:55,am,9:00,pm
+MUC,MIA,2023-08-02,$604,1 stop,TAP AIR PORTUGAL,LIS,21h 30m,6:05,am,9:35,pm
+MUC,MIA,2023-08-02,$911,1 stop,Turkish Airlines,IST,17h 05m,6:55,pm,6:00,am
+MUC,MIA,2023-08-02,$495,1 stop,TAP AIR PORTUGAL,LIS,24h 40m,8:00,pm,2:40,pm
+MUC,MIA,2023-08-02,$987,2 stops,Delta,"AMS, CDG",15h 10m,11:50,am,9:00,pm
+MUC,MIA,2023-08-02,$871,1 stop,"Lufthansa, TAP AIR PORTUGAL",LIS,14h 35m,6:05,am,2:40,pm
+MUC,MIA,2023-08-02,$581,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",18h 50m,8:45,am,9:35,pm
+MUC,MIA,2023-08-02,$581,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",18h 50m,8:45,am,9:35,pm
+MUC,MIA,2023-08-02,$777,1 stop,Air France,CDG,19h 45m,7:15,am,9:00,pm
+MUC,MIA,2023-08-02,$876,1 stop,Delta,ATL,18h 18m,10:25,am,10:43,pm
+MUC,MIA,2023-08-02,$911,1 stop,Turkish Airlines,IST,18h 10m,7:15,am,7:25,pm
+MUC,MIA,2023-08-02,$753,2 stops,"Air Europa, TAP AIR PORTUGAL","MAD, LIS",16h 50m,10:45,am,9:35,pm
+MUC,MIA,2023-08-02,$773,1 stop,Delta,ATL,20h 15m,10:25,am,12:40,am
+MUC,MIA,2023-08-02,$997,1 stop,Air France,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-02,$865,1 stop,Delta,CDG,19h 45m,7:15,am,9:00,pm
+MUC,MIA,2023-08-02,$968,2 stops,Delta,"AMS, ATL",17h 35m,7:00,am,6:35,pm
+MUC,MIA,2023-08-02,$581,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",20h 20m,7:15,am,9:35,pm
+MUC,MIA,2023-08-02,$581,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",20h 20m,7:15,am,9:35,pm
+MUC,MIA,2023-08-02,$797,2 stops,"Lufthansa, TAP AIR PORTUGAL","BCN, LIS",16h 45m,10:50,am,9:35,pm
+MUC,MIA,2023-08-02,$865,2 stops,Delta,"AMS, ATL",19h 35m,7:00,am,8:35,pm
+MUC,MIA,2023-08-02,$987,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-02,$987,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-02,$987,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-02,$628,2 stops,"Lufthansa, TAP AIR PORTUGAL","ORY, LIS",20h 05m,7:30,am,9:35,pm
+MUC,MIA,2023-08-02,$968,2 stops,Delta,"AMS, BOS",18h 22m,7:00,am,7:22,pm
+MUC,MIA,2023-08-02,$616,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-02,$616,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-02,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-02,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-02,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-02,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-02,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-02,$794,2 stops,"Lufthansa, TAP AIR PORTUGAL","SVQ, LIS",17h 40m,9:55,am,9:35,pm
+MUC,MIA,2023-08-02,"$1,265",1 stop,KLM,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-02,$719,2 stops,"Vueling, TAP AIR PORTUGAL","BCN, LIS",17h 30m,10:05,am,9:35,pm
+MUC,MIA,2023-08-02,$685,2 stops,"Lufthansa, TAP AIR PORTUGAL","ORY, LIS",20h 05m,7:30,am,9:35,pm
+MUC,MIA,2023-08-02,$776,2 stops,"Lufthansa, TAP AIR PORTUGAL","BCN, LIS",18h 35m,9:00,am,9:35,pm
+MUC,MIA,2023-08-02,$911,1 stop,Turkish Airlines,IST,21h 40m,2:20,pm,6:00,am
+MUC,MIA,2023-08-02,$685,2 stops,"Lufthansa, TAP AIR PORTUGAL","CDG-ORY, LIS",20h 50m,6:45,am,9:35,pm
+MUC,MIA,2023-08-02,"$1,357",1 stop,Delta,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-02,"$1,022",2 stops,TAP AIR PORTUGAL,"OPO, LIS",19h 10m,8:25,am,9:35,pm
+MUC,MIA,2023-08-02,"$1,139",2 stops,"LOT, American Airlines","WAW, JFK",17h 19m,9:55,am,9:14,pm
+MUC,MIA,2023-08-02,"$1,007",2 stops,Air France,"CDG, ATL",19h 20m,7:15,am,8:35,pm
+MUC,MIA,2023-08-02,"$1,476",1 stop,Lufthansa,FRA,12h 45m,8:00,am,2:45,pm
+MUC,MIA,2023-08-02,"$1,265",1 stop,KLM,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-02,"$1,085",2 stops,Delta,"CDG, ATL",19h 20m,7:15,am,8:35,pm
+MUC,MIA,2023-08-02,"$1,078",2 stops,Delta,"AMS, JFK",19h 36m,9:25,am,11:01,pm
+MUC,MIA,2023-08-02,"$1,078",2 stops,Delta,"AMS, MSP",19h 40m,9:25,am,11:05,pm
+MUC,MIA,2023-08-02,"$1,083",2 stops,Delta,"AMS, JFK",19h 36m,9:25,am,11:01,pm
+MUC,MIA,2023-08-02,$723,3 stops,Multiple Airlines,"BCN, MAD, ...",21h 00m,6:35,am,9:35,pm
+MUC,MIA,2023-08-02,$509,2 stops,"Vueling, TAP AIR PORTUGAL","BCN, LIS",24h 00m,8:40,pm,2:40,pm
+MUC,MIA,2023-08-02,"$1,476",1 stop,Lufthansa,FRA,13h 45m,7:00,am,2:45,pm
+MUC,MIA,2023-08-02,"$1,484",1 stop,United Airlines,EWR,13h 40m,9:30,am,5:10,pm
+MUC,MIA,2023-08-02,$968,2 stops,Delta,"AMS, ATL",21h 43m,7:00,am,10:43,pm
+MUC,MIA,2023-08-02,$856,1 stop,TAP AIR PORTUGAL,LIS,25h 10m,7:30,pm,2:40,pm
+MUC,MIA,2023-08-02,"$1,475",1 stop,SWISS,ZRH,14h 10m,9:05,am,5:15,pm
+MUC,MIA,2023-08-02,"$1,272",2 stops,KLM,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-02,$500,1 stop,TAP AIR PORTUGAL,LIS,31h 05m,1:35,pm,2:40,pm
+MUC,MIA,2023-08-02,"$1,357",1 stop,Delta,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-02,"$1,269",2 stops,KLM,"AMS, ATL",17h 10m,9:25,am,8:35,pm
+MUC,MIA,2023-08-02,"$1,278",2 stops,Air France,"CDG, DTW",17h 00m,7:15,am,6:15,pm
+MUC,MIA,2023-08-03,$496,1 stop,TAP AIR PORTUGAL,LIS,14h 35m,6:05,am,2:40,pm
+MUC,MIA,2023-08-03,$496,1 stop,TAP AIR PORTUGAL,LIS,24h 40m,8:00,pm,2:40,pm
+MUC,MIA,2023-08-03,$777,1 stop,Air France,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-03,$624,1 stop,"Lufthansa, Air Caraïbes",CDG-ORY,15h 30m,9:50,am,7:20,pm
+MUC,MIA,2023-08-03,$576,1 stop,"Lufthansa, Air Caraïbes",ORY,17h 50m,7:30,am,7:20,pm
+MUC,MIA,2023-08-03,$500,1 stop,TAP AIR PORTUGAL,LIS,31h 05m,1:35,pm,2:40,pm
+MUC,MIA,2023-08-03,$576,1 stop,"Lufthansa, Air Caraïbes",CDG-ORY,18h 35m,6:45,am,7:20,pm
+MUC,MIA,2023-08-03,$500,1 stop,TAP AIR PORTUGAL,LIS,31h 35m,8:00,pm,9:35,pm
+MUC,MIA,2023-08-03,$876,1 stop,Delta,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-03,$865,1 stop,Delta,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-03,$777,1 stop,Air France,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-03,"$1,080",1 stop,Lufthansa,FRA,11h 45m,9:00,am,2:45,pm
+MUC,MIA,2023-08-03,$777,1 stop,Air France,CDG,17h 05m,9:55,am,9:00,pm
+MUC,MIA,2023-08-03,$911,1 stop,Turkish Airlines,IST,18h 10m,7:15,am,7:25,pm
+MUC,MIA,2023-08-03,$773,1 stop,Delta,ATL,18h 18m,10:25,am,10:43,pm
+MUC,MIA,2023-08-03,$527,2 stops,"Vueling, TAP AIR PORTUGAL","BCN, LIS",23h 45m,8:55,pm,2:40,pm
+MUC,MIA,2023-08-03,$660,1 stop,LOT,WAW,28h 00m,7:35,pm,5:35,pm
+MUC,MIA,2023-08-03,$760,1 stop,"Lufthansa, French Bee",CDG-ORY,15h 30m,9:50,am,7:20,pm
+MUC,MIA,2023-08-03,$884,2 stops,Delta,"AMS, CDG",15h 10m,11:50,am,9:00,pm
+MUC,MIA,2023-08-03,$876,1 stop,Delta,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-03,$865,1 stop,Delta,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-03,$885,1 stop,"Lufthansa, TAP AIR PORTUGAL",LIS,14h 35m,6:05,am,2:40,pm
+MUC,MIA,2023-08-03,"$1,040",1 stop,Air Europa,MAD,14h 00m,10:45,am,6:45,pm
+MUC,MIA,2023-08-03,$710,1 stop,"Lufthansa, French Bee",ORY,17h 50m,7:30,am,7:20,pm
+MUC,MIA,2023-08-03,$710,1 stop,"Lufthansa, French Bee",CDG-ORY,18h 35m,6:45,am,7:20,pm
+MUC,MIA,2023-08-03,$582,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",24h 55m,7:45,pm,2:40,pm
+MUC,MIA,2023-08-03,"$1,265",1 stop,KLM,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-03,$582,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",26h 00m,6:40,pm,2:40,pm
+MUC,MIA,2023-08-03,$631,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",23h 00m,9:40,pm,2:40,pm
+MUC,MIA,2023-08-03,$686,2 stops,LOT,"KRK, WAW",25h 35m,10:00,pm,5:35,pm
+MUC,MIA,2023-08-03,$777,1 stop,Air France,CDG,19h 45m,7:15,am,9:00,pm
+MUC,MIA,2023-08-03,$865,1 stop,Delta,CDG,17h 05m,9:55,am,9:00,pm
+MUC,MIA,2023-08-03,$607,2 stops,"Air Europa, TAP AIR PORTUGAL","MAD, LIS",25h 35m,7:05,pm,2:40,pm
+MUC,MIA,2023-08-03,$689,2 stops,LOT,"KRK, WAW",25h 35m,10:00,pm,5:35,pm
+MUC,MIA,2023-08-03,$801,2 stops,TAP AIR PORTUGAL,"LIS, EWR",25h 30m,1:35,pm,9:05,am
+MUC,MIA,2023-08-03,$865,1 stop,Delta,CDG,19h 45m,7:15,am,9:00,pm
+MUC,MIA,2023-08-03,$689,2 stops,LOT,"KRK, WAW",25h 35m,10:00,pm,5:35,pm
+MUC,MIA,2023-08-03,$884,2 stops,Delta,"AMS, CDG",17h 05m,7:00,am,6:05,pm
+MUC,MIA,2023-08-03,$876,1 stop,Delta,ATL,20h 15m,10:25,am,12:40,am
+MUC,MIA,2023-08-03,$884,2 stops,Delta,"AMS, CDG",17h 05m,7:00,am,6:05,pm
+MUC,MIA,2023-08-03,$884,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-03,$646,2 stops,"Lufthansa, TAP AIR PORTUGAL","MAD, LIS",25h 10m,7:30,pm,2:40,pm
+MUC,MIA,2023-08-03,$884,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-03,$884,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-03,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-03,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-03,"$1,078",2 stops,Delta,"AMS, ATL",19h 35m,7:00,am,8:35,pm
+MUC,MIA,2023-08-03,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-03,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-03,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-03,$856,1 stop,TAP AIR PORTUGAL,LIS,25h 10m,7:30,pm,2:40,pm
+MUC,MIA,2023-08-03,$971,2 stops,"Icelandair, JetBlue","KEF, JFK",22h 38m,4:55,pm,9:33,am
+MUC,MIA,2023-08-03,$559,2 stops,"easyJet, TAP AIR PORTUGAL","LGW-LHR, LIS",22h 45m,9:55,pm,2:40,pm
+MUC,MIA,2023-08-03,$774,2 stops,LOT,"GDN, WAW",27h 25m,8:10,pm,5:35,pm
+MUC,MIA,2023-08-03,$774,2 stops,LOT,"GDN, WAW",27h 25m,8:10,pm,5:35,pm
+MUC,MIA,2023-08-03,"$1,265",1 stop,KLM,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-03,$683,2 stops,"Lufthansa, TAP AIR PORTUGAL","CDG-ORY, LIS",22h 50m,9:50,pm,2:40,pm
+MUC,MIA,2023-08-03,"$1,475",1 stop,Lufthansa,FRA,12h 45m,8:00,am,2:45,pm
+MUC,MIA,2023-08-03,$685,2 stops,"Brussels Airlines, TAP AIR PORTUGAL","BRU, LIS",23h 30m,9:10,pm,2:40,pm
+MUC,MIA,2023-08-03,$936,2 stops,Icelandair,"KEF, BOS",24h 36m,4:55,pm,11:31,am
+MUC,MIA,2023-08-03,"$1,272",2 stops,KLM,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-03,$936,2 stops,Icelandair,"KEF, EWR",25h 00m,2:05,pm,9:05,am
+MUC,MIA,2023-08-03,"$1,078",2 stops,Delta,"AMS, ATL",21h 43m,7:00,am,10:43,pm
+MUC,MIA,2023-08-03,$722,2 stops,"Lufthansa, TAP AIR PORTUGAL","BRU, LIS",23h 30m,9:10,pm,2:40,pm
+MUC,MIA,2023-08-03,"$1,475",1 stop,Lufthansa,FRA,13h 45m,7:00,am,2:45,pm
+MUC,MIA,2023-08-03,"$1,484",1 stop,United Airlines,EWR,13h 40m,9:30,am,5:10,pm
+MUC,MIA,2023-08-03,"$1,269",2 stops,KLM,"AMS, ATL",17h 10m,9:25,am,8:35,pm
+MUC,MIA,2023-08-03,"$1,272",2 stops,KLM,"AMS, JFK",17h 11m,11:50,am,11:01,pm
+MUC,MIA,2023-08-03,"$1,278",2 stops,Air France,"CDG, DTW",17h 00m,7:15,am,6:15,pm
+MUC,MIA,2023-08-03,"$1,269",2 stops,KLM,"AMS, DTW",17h 15m,7:00,am,6:15,pm
+MUC,MIA,2023-08-03,"$1,474",1 stop,SWISS,ZRH,14h 10m,9:05,am,5:15,pm
+MUC,MIA,2023-08-03,"$1,269",2 stops,KLM,"AMS, ATL",17h 35m,7:00,am,6:35,pm
+MUC,MIA,2023-08-03,"$1,361",2 stops,Delta,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-03,"$1,269",2 stops,KLM,"AMS, JFK",17h 58m,7:00,am,6:58,pm
+MUC,MIA,2023-08-03,$992,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-03,$676,1 stop,LOT,WAW,32h 45m,2:50,pm,5:35,pm
+MUC,MIA,2023-08-03,"$1,362",2 stops,Delta,"CDG, DTW",17h 00m,7:15,am,6:15,pm
+MUC,MIA,2023-08-03,"$1,357",2 stops,Delta,"AMS, ATL",17h 10m,9:25,am,8:35,pm
+MUC,MIA,2023-08-03,"$1,361",2 stops,Delta,"AMS, JFK",17h 11m,11:50,am,11:01,pm
+MUC,MIA,2023-08-03,"$1,357",2 stops,Delta,"AMS, DTW",17h 15m,7:00,am,6:15,pm
+MUC,MIA,2023-08-03,"$1,333",2 stops,"Scandinavian Airlines, American Airlines","ARN, ORD",17h 54m,6:05,am,5:59,pm
+MUC,MIA,2023-08-03,$992,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-03,"$1,363",2 stops,Delta,"CDG, ATL",17h 20m,7:15,am,6:35,pm
+MUC,MIA,2023-08-03,"$1,474",1 stop,SWISS,ZRH,15h 30m,7:45,am,5:15,pm
+MUC,MIA,2023-08-03,$681,2 stops,LOT,"GDN, WAW",32h 40m,2:55,pm,5:35,pm
+MUC,MIA,2023-08-03,"$1,272",2 stops,KLM,"AMS, ATL",18h 50m,11:50,am,12:40,am
+MUC,MIA,2023-08-03,"$1,357",2 stops,Delta,"AMS, ATL",17h 35m,7:00,am,6:35,pm
+MUC,MIA,2023-08-03,"$1,298",2 stops,Scandinavian Airlines,"CPH, EWR",18h 54m,6:40,am,7:34,pm
+MUC,MIA,2023-08-03,"$1,265",2 stops,KLM,"DTW, ATL",19h 10m,11:30,am,12:40,am
+MUC,MIA,2023-08-03,"$1,265",2 stops,KLM,"DTW, ATL",19h 10m,11:30,am,12:40,am
+MUC,MIA,2023-08-04,$498,1 stop,TAP AIR PORTUGAL,LIS,14h 00m,1:35,pm,9:35,pm
+MUC,MIA,2023-08-04,$499,1 stop,TAP AIR PORTUGAL,LIS,14h 35m,6:05,am,2:40,pm
+MUC,MIA,2023-08-04,$661,1 stop,LOT,WAW,16h 35m,7:00,am,5:35,pm
+MUC,MIA,2023-08-04,$689,2 stops,LOT,"KRK, WAW",16h 15m,7:20,am,5:35,pm
+MUC,MIA,2023-08-04,$500,1 stop,TAP AIR PORTUGAL,LIS,21h 30m,6:05,am,9:35,pm
+MUC,MIA,2023-08-04,$778,1 stop,Air France,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-04,$880,1 stop,Air France,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-04,"$1,027",1 stop,Lufthansa,FRA,11h 45m,9:00,am,2:45,pm
+MUC,MIA,2023-08-04,$498,1 stop,TAP AIR PORTUGAL,LIS,24h 40m,8:00,pm,2:40,pm
+MUC,MIA,2023-08-04,$607,2 stops,"Air Europa, TAP AIR PORTUGAL","MAD, LIS",16h 50m,10:45,am,9:35,pm
+MUC,MIA,2023-08-04,$968,1 stop,Delta,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-04,$703,1 stop,"Lufthansa, Air Caraïbes",CDG-ORY,15h 30m,9:50,am,7:20,pm
+MUC,MIA,2023-08-04,$631,1 stop,"Lufthansa, Air Caraïbes",CDG-ORY,18h 35m,6:45,am,7:20,pm
+MUC,MIA,2023-08-04,$829,1 stop,"Lufthansa, TAP AIR PORTUGAL",LIS,14h 00m,1:35,pm,9:35,pm
+MUC,MIA,2023-08-04,$880,1 stop,Air France,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-04,$928,1 stop,Turkish Airlines,IST,17h 05m,6:55,pm,6:00,am
+MUC,MIA,2023-08-04,$880,1 stop,Air France,CDG,17h 05m,9:55,am,9:00,pm
+MUC,MIA,2023-08-04,$987,2 stops,Delta,"AMS, CDG",15h 10m,11:50,am,9:00,pm
+MUC,MIA,2023-08-04,$681,1 stop,"Lufthansa, Air Caraïbes",ORY,17h 50m,7:30,am,7:20,pm
+MUC,MIA,2023-08-04,$829,1 stop,"Lufthansa, TAP AIR PORTUGAL",LIS,14h 35m,6:05,am,2:40,pm
+MUC,MIA,2023-08-04,$618,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",18h 50m,8:45,am,9:35,pm
+MUC,MIA,2023-08-04,$618,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",18h 50m,8:45,am,9:35,pm
+MUC,MIA,2023-08-04,$985,1 stop,TAP AIR PORTUGAL,LIS,16h 15m,11:20,am,9:35,pm
+MUC,MIA,2023-08-04,$968,1 stop,Delta,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-04,$911,1 stop,Turkish Airlines,IST,18h 10m,7:15,am,7:25,pm
+MUC,MIA,2023-08-04,$583,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",20h 20m,7:15,am,9:35,pm
+MUC,MIA,2023-08-04,$583,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",20h 20m,7:15,am,9:35,pm
+MUC,MIA,2023-08-04,$968,1 stop,Delta,CDG,17h 05m,9:55,am,9:00,pm
+MUC,MIA,2023-08-04,"$1,129",1 stop,Air Europa,MAD,14h 00m,10:45,am,6:45,pm
+MUC,MIA,2023-08-04,$755,2 stops,"Lufthansa, TAP AIR PORTUGAL","DUS, LIS",17h 05m,10:30,am,9:35,pm
+MUC,MIA,2023-08-04,$971,2 stops,Delta,"AMS, JFK",17h 11m,11:50,am,11:01,pm
+MUC,MIA,2023-08-04,$699,2 stops,"Lufthansa, TAP AIR PORTUGAL","DUS, LIS",18h 35m,9:00,am,9:35,pm
+MUC,MIA,2023-08-04,$683,2 stops,"Lufthansa, TAP AIR PORTUGAL","DUS, LIS",19h 05m,8:30,am,9:35,pm
+MUC,MIA,2023-08-04,$987,2 stops,Delta,"AMS, CDG",17h 05m,7:00,am,6:05,pm
+MUC,MIA,2023-08-04,$987,2 stops,Delta,"AMS, CDG",17h 05m,7:00,am,6:05,pm
+MUC,MIA,2023-08-04,$880,1 stop,Air France,CDG,19h 45m,7:15,am,9:00,pm
+MUC,MIA,2023-08-04,$987,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-04,$987,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-04,$987,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-04,$639,2 stops,"Lufthansa, TAP AIR PORTUGAL","CDG-ORY, LIS",20h 50m,6:45,am,9:35,pm
+MUC,MIA,2023-08-04,$625,3 stops,"Brussels Airlines, TAP AIR PORTUGAL","BRU, LHR, ...",20h 45m,6:50,am,9:35,pm
+MUC,MIA,2023-08-04,$625,3 stops,"Brussels Airlines, TAP AIR PORTUGAL","BRU, LHR, ...",20h 45m,6:50,am,9:35,pm
+MUC,MIA,2023-08-04,$690,2 stops,"Lufthansa, TAP AIR PORTUGAL","ORY, LIS",20h 05m,7:30,am,9:35,pm
+MUC,MIA,2023-08-04,$968,1 stop,Delta,CDG,19h 45m,7:15,am,9:00,pm
+MUC,MIA,2023-08-04,$840,1 stop,"Lufthansa, French Bee",CDG-ORY,15h 30m,9:50,am,7:20,pm
+MUC,MIA,2023-08-04,$911,1 stop,Turkish Airlines,IST,21h 40m,2:20,pm,6:00,am
+MUC,MIA,2023-08-04,$971,2 stops,Delta,"AMS, JFK",19h 36m,9:25,am,11:01,pm
+MUC,MIA,2023-08-04,$999,2 stops,TAP AIR PORTUGAL,"OPO, LIS",19h 10m,8:25,am,9:35,pm
+MUC,MIA,2023-08-04,$502,1 stop,TAP AIR PORTUGAL,LIS,31h 05m,1:35,pm,2:40,pm
+MUC,MIA,2023-08-04,$661,1 stop,LOT,WAW,28h 00m,7:35,pm,5:35,pm
+MUC,MIA,2023-08-04,$764,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-04,$767,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-04,$987,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-04,$987,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-04,$987,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-04,$987,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-04,$987,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-04,"$1,007",2 stops,Air France,"CDG, JFK",19h 06m,9:55,am,11:01,pm
+MUC,MIA,2023-08-04,$766,1 stop,"Lufthansa, French Bee",CDG-ORY,18h 35m,6:45,am,7:20,pm
+MUC,MIA,2023-08-04,$973,2 stops,Delta,"CDG, ATL",20h 45m,9:55,am,12:40,am
+MUC,MIA,2023-08-04,"$1,007",2 stops,Air France,"CDG, ATL",19h 20m,7:15,am,8:35,pm
+MUC,MIA,2023-08-04,$689,2 stops,LOT,"KRK, WAW",25h 35m,10:00,pm,5:35,pm
+MUC,MIA,2023-08-04,$689,2 stops,LOT,"KRK, WAW",25h 35m,10:00,pm,5:35,pm
+MUC,MIA,2023-08-04,$858,1 stop,TAP AIR PORTUGAL,LIS,25h 10m,7:30,pm,2:40,pm
+MUC,MIA,2023-08-04,$666,1 stop,Air France,DTW,29h 55m,11:30,am,11:25,am
+MUC,MIA,2023-08-04,"$1,476",1 stop,Lufthansa,FRA,12h 45m,8:00,am,2:45,pm
+MUC,MIA,2023-08-04,"$1,390",1 stop,KLM,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-04,$911,1 stop,Turkish Airlines,IST,25h 30m,10:30,am,6:00,am
+MUC,MIA,2023-08-04,"$1,272",2 stops,KLM,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-04,$936,2 stops,Icelandair,"KEF, EWR",25h 00m,2:05,pm,9:05,am
+MUC,MIA,2023-08-04,"$1,476",1 stop,Lufthansa,FRA,13h 45m,7:00,am,2:45,pm
+MUC,MIA,2023-08-04,"$1,269",2 stops,KLM,"AMS, ATL",17h 10m,9:25,am,8:35,pm
+MUC,MIA,2023-08-04,"$1,272",2 stops,KLM,"AMS, JFK",17h 11m,11:50,am,11:01,pm
+MUC,MIA,2023-08-04,"$1,278",2 stops,Air France,"CDG, DTW",17h 00m,7:15,am,6:15,pm
+MUC,MIA,2023-08-04,$936,2 stops,Icelandair,"KEF, JFK",25h 28m,2:05,pm,9:33,am
+MUC,MIA,2023-08-05,$580,1 stop,TAP AIR PORTUGAL,LIS,14h 35m,6:05,am,2:40,pm
+MUC,MIA,2023-08-05,$526,1 stop,TAP AIR PORTUGAL,LIS,24h 40m,8:00,pm,2:40,pm
+MUC,MIA,2023-08-05,$663,1 stop,LOT,WAW,16h 35m,7:00,am,5:35,pm
+MUC,MIA,2023-08-05,$876,1 stop,Delta,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-05,$880,1 stop,Air France,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-05,$968,1 stop,Delta,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-05,$876,1 stop,Delta,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-05,$880,1 stop,Air France,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-05,$968,1 stop,Delta,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-05,$971,2 stops,Delta,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-05,$876,1 stop,Delta,ATL,18h 18m,10:25,am,10:43,pm
+MUC,MIA,2023-08-05,$987,2 stops,Delta,"AMS, CDG",17h 05m,7:00,am,6:05,pm
+MUC,MIA,2023-08-05,$987,2 stops,Delta,"AMS, CDG",17h 05m,7:00,am,6:05,pm
+MUC,MIA,2023-08-05,$967,1 stop,Turkish Airlines,IST,18h 10m,7:15,am,7:25,pm
+MUC,MIA,2023-08-05,$876,1 stop,Delta,ATL,20h 15m,10:25,am,12:40,am
+MUC,MIA,2023-08-05,$876,1 stop,Delta,ATL,20h 15m,10:25,am,12:40,am
+MUC,MIA,2023-08-05,$971,2 stops,Delta,"AMS, ATL",18h 50m,11:50,am,12:40,am
+MUC,MIA,2023-08-05,"$1,265",1 stop,KLM,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-05,"$1,464",1 stop,Lufthansa,FRA,11h 45m,9:00,am,2:45,pm
+MUC,MIA,2023-08-05,"$1,464",1 stop,Lufthansa,FRA,12h 45m,8:00,am,2:45,pm
+MUC,MIA,2023-08-05,"$1,265",1 stop,KLM,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-05,"$1,471",1 stop,Lufthansa,FRA,13h 45m,7:00,am,2:45,pm
+MUC,MIA,2023-08-05,"$1,233",2 stops,"LOT, American Airlines","WAW, JFK",17h 19m,9:55,am,9:14,pm
+MUC,MIA,2023-08-05,"$1,475",1 stop,SWISS,ZRH,14h 10m,9:05,am,5:15,pm
+MUC,MIA,2023-08-05,"$1,272",2 stops,KLM,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-05,$500,1 stop,TAP AIR PORTUGAL,LIS,31h 05m,1:35,pm,2:40,pm
+MUC,MIA,2023-08-05,$500,1 stop,TAP AIR PORTUGAL,LIS,31h 35m,8:00,pm,9:35,pm
+MUC,MIA,2023-08-05,$865,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-05,$865,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-05,"$1,269",2 stops,KLM,"AMS, ATL",17h 10m,9:25,am,8:35,pm
+MUC,MIA,2023-08-05,"$1,278",2 stops,Air France,"CDG, DTW",17h 00m,7:15,am,6:15,pm
+MUC,MIA,2023-08-05,"$1,272",2 stops,KLM,"AMS, JFK",17h 11m,11:50,am,11:01,pm
+MUC,MIA,2023-08-05,"$1,269",2 stops,KLM,"AMS, DTW",17h 15m,7:00,am,6:15,pm
+MUC,MIA,2023-08-05,"$1,269",2 stops,KLM,"AMS, ATL",17h 35m,7:00,am,6:35,pm
+MUC,MIA,2023-08-05,"$1,475",1 stop,SWISS,ZRH,15h 30m,7:45,am,5:15,pm
+MUC,MIA,2023-08-05,"$1,269",2 stops,KLM,"AMS, JFK",17h 58m,7:00,am,6:58,pm
+MUC,MIA,2023-08-05,"$1,362",2 stops,Delta,"CDG, DTW",17h 00m,7:15,am,6:15,pm
+MUC,MIA,2023-08-05,$915,1 stop,Turkish Airlines,IST,25h 30m,10:30,am,6:00,am
+MUC,MIA,2023-08-05,"$1,357",2 stops,Delta,"AMS, ATL",17h 10m,9:25,am,8:35,pm
+MUC,MIA,2023-08-05,"$1,361",2 stops,Delta,"AMS, JFK",17h 11m,11:50,am,11:01,pm
+MUC,MIA,2023-08-05,"$1,357",2 stops,Delta,"AMS, DTW",17h 15m,7:00,am,6:15,pm
+MUC,MIA,2023-08-05,"$1,479",1 stop,Lufthansa,EWR,16h 04m,9:30,am,7:34,pm
+MUC,MIA,2023-08-05,"$1,363",2 stops,Delta,"CDG, ATL",17h 20m,7:15,am,6:35,pm
+MUC,MIA,2023-08-05,"$1,465",2 stops,Air Canada,"FRA, YUL",15h 49m,12:00,pm,9:49,pm
+MUC,MIA,2023-08-05,"$1,357",2 stops,Delta,"AMS, ATL",17h 35m,7:00,am,6:35,pm
+MUC,MIA,2023-08-05,$610,2 stops,"Lufthansa, TAP AIR PORTUGAL","LHR, LIS",26h 00m,6:40,pm,2:40,pm
+MUC,MIA,2023-08-05,"$1,475",1 stop,SWISS,ZRH,15h 30m,7:45,am,5:15,pm
+MUC,MIA,2023-08-05,"$1,269",2 stops,KLM,"AMS, JFK",17h 58m,7:00,am,6:58,pm
+MUC,MIA,2023-08-05,"$1,362",2 stops,Delta,"CDG, DTW",17h 00m,7:15,am,6:15,pm
+MUC,MIA,2023-08-05,"$1,357",2 stops,Delta,"AMS, ATL",17h 10m,9:25,am,8:35,pm
+MUC,MIA,2023-08-05,$916,1 stop,Turkish Airlines,IST,25h 30m,10:30,am,6:00,am
+MUC,MIA,2023-08-05,"$1,361",2 stops,Delta,"AMS, JFK",17h 11m,11:50,am,11:01,pm
+MUC,MIA,2023-08-05,"$1,357",2 stops,Delta,"AMS, DTW",17h 15m,7:00,am,6:15,pm
+MUC,MIA,2023-08-05,"$1,479",1 stop,Lufthansa,EWR,16h 04m,9:30,am,7:34,pm
+MUC,MIA,2023-08-05,$836,2 stops,"TAP AIR PORTUGAL, JetBlue","LIS, JFK",25h 58m,1:35,pm,9:33,am
+MUC,MIA,2023-08-05,"$1,479",1 stop,"Lufthansa, United Airlines",JFK-EWR,16h 11m,12:45,pm,10:56,pm
+MUC,MIA,2023-08-05,"$1,363",2 stops,Delta,"CDG, ATL",17h 20m,7:15,am,6:35,pm
+MUC,MIA,2023-08-05,"$1,484",1 stop,United Airlines,EWR,16h 04m,9:30,am,7:34,pm
+MUC,MIA,2023-08-05,"$1,484",1 stop,United Airlines,IAH,16h 09m,11:55,am,10:04,pm
+MUC,MIA,2023-08-05,"$1,357",2 stops,Delta,"AMS, ATL",17h 35m,7:00,am,6:35,pm
+MUC,MIA,2023-08-05,$637,3 stops,"Lufthansa, TAP AIR PORTUGAL","FRA, DUB, ...",25h 40m,7:00,pm,2:40,pm
+MUC,MIA,2023-08-05,"$1,486",2 stops,United Airlines,"FRA, EWR",15h 37m,11:00,am,8:37,pm
+MUC,MIA,2023-08-05,"$1,362",2 stops,Delta,"CDG, JFK",17h 43m,7:15,am,6:58,pm
+MUC,MIA,2023-08-05,"$1,363",2 stops,Delta,"CDG, JFK",17h 43m,7:15,am,6:58,pm
+MUC,MIA,2023-08-05,"$1,272",2 stops,KLM,"AMS, ATL",18h 50m,11:50,am,12:40,am
+MUC,MIA,2023-08-05,$650,3 stops,"Lufthansa, TAP AIR PORTUGAL","FRA, LHR, ...",25h 40m,7:00,pm,2:40,pm
+MUC,MIA,2023-08-05,$722,2 stops,"Lufthansa, TAP AIR PORTUGAL","BRU, LIS",23h 30m,9:10,pm,2:40,pm
+MUC,MIA,2023-08-05,"$1,479",1 stop,Air Canada,YYZ,16h 36m,11:50,am,10:26,pm
+MUC,MIA,2023-08-05,"$1,298",2 stops,Scandinavian Airlines,"CPH, EWR",18h 54m,6:40,am,7:34,pm
+MUC,MIA,2023-08-05,"$1,502",2 stops,SWISS,"GVA, ZRH",15h 30m,7:45,am,5:15,pm
+MUC,MIA,2023-08-05,"$1,502",2 stops,SWISS,"GVA, ZRH",15h 30m,7:45,am,5:15,pm
+MUC,MIA,2023-08-05,"$1,357",2 stops,Delta,"AMS, JFK",17h 58m,7:00,am,6:58,pm
+MUC,MIA,2023-08-05,$979,1 stop,TAP AIR PORTUGAL,LIS,25h 10m,7:30,pm,2:40,pm
+MUC,MIA,2023-08-05,"$1,479",2 stops,Air Canada,"YYZ, YUL",15h 59m,11:50,am,9:49,pm
+MUC,MIA,2023-08-05,"$1,265",2 stops,KLM,"DTW, ATL",19h 10m,11:30,am,12:40,am
+MUC,MIA,2023-08-06,$526,1 stop,TAP AIR PORTUGAL,LIS,14h 00m,1:35,pm,9:35,pm
+MUC,MIA,2023-08-06,$526,1 stop,TAP AIR PORTUGAL,LIS,14h 35m,6:05,am,2:40,pm
+MUC,MIA,2023-08-06,$526,1 stop,TAP AIR PORTUGAL,LIS,21h 30m,6:05,am,9:35,pm
+MUC,MIA,2023-08-06,$773,1 stop,Delta,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-06,$876,1 stop,Delta,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-06,$659,1 stop,LOT,WAW,28h 00m,7:35,pm,5:35,pm
+MUC,MIA,2023-08-06,$967,1 stop,Turkish Airlines,IST,18h 10m,7:15,am,7:25,pm
+MUC,MIA,2023-08-06,$773,1 stop,Delta,ATL,20h 15m,10:25,am,12:40,am
+MUC,MIA,2023-08-06,$884,2 stops,Delta,"AMS, CDG",15h 20m,11:40,am,9:00,pm
+MUC,MIA,2023-08-06,$706,1 stop,TAP AIR PORTUGAL,LIS,24h 40m,8:00,pm,2:40,pm
+MUC,MIA,2023-08-06,$971,2 stops,Delta,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-06,$876,1 stop,Delta,ATL,18h 18m,10:25,am,10:43,pm
+MUC,MIA,2023-08-06,"$1,020",1 stop,TAP AIR PORTUGAL,LIS,16h 15m,11:20,am,9:35,pm
+MUC,MIA,2023-08-06,$798,2 stops,TAP AIR PORTUGAL,"OPO, LIS",19h 10m,8:25,am,9:35,pm
+MUC,MIA,2023-08-06,$884,2 stops,Delta,"AMS, CDG",15h 20m,11:40,am,9:00,pm
+MUC,MIA,2023-08-06,$987,2 stops,Delta,"AMS, CDG",17h 05m,7:00,am,6:05,pm
+MUC,MIA,2023-08-06,$987,2 stops,Delta,"AMS, CDG",17h 05m,7:00,am,6:05,pm
+MUC,MIA,2023-08-06,$967,1 stop,Turkish Airlines,IST,18h 10m,7:15,am,7:25,pm
+MUC,MIA,2023-08-06,$987,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-06,$987,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-06,$987,2 stops,Delta,"AMS, CDG",17h 35m,9:25,am,9:00,pm
+MUC,MIA,2023-08-06,$880,1 stop,Air France,CDG,19h 45m,7:15,am,9:00,pm
+MUC,MIA,2023-08-06,$706,1 stop,TAP AIR PORTUGAL,LIS,24h 40m,8:00,pm,2:40,pm
+MUC,MIA,2023-08-06,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-06,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-06,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-06,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-06,$884,2 stops,Delta,"AMS, CDG",20h 00m,7:00,am,9:00,pm
+MUC,MIA,2023-08-06,$971,2 stops,Delta,"AMS, ATL",19h 00m,11:40,am,12:40,am
+MUC,MIA,2023-08-06,$968,1 stop,Delta,CDG,19h 45m,7:15,am,9:00,pm
+MUC,MIA,2023-08-06,$971,2 stops,Delta,"AMS, JFK",19h 36m,9:25,am,11:01,pm
+MUC,MIA,2023-08-06,$720,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-06,$868,2 stops,Delta,"AMS, JFK",22h 01m,7:00,am,11:01,pm
+MUC,MIA,2023-08-06,$720,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-06,"$1,265",1 stop,KLM,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-06,$659,1 stop,LOT,WAW,28h 00m,7:35,pm,5:35,pm
+MUC,MIA,2023-08-06,$678,2 stops,LOT,"KRK, WAW",25h 35m,10:00,pm,5:35,pm
+MUC,MIA,2023-08-06,$678,2 stops,LOT,"KRK, WAW",25h 35m,10:00,pm,5:35,pm
+MUC,MIA,2023-08-06,$678,2 stops,LOT,"KRK, WAW",25h 35m,10:00,pm,5:35,pm
+MUC,MIA,2023-08-06,"$1,265",1 stop,KLM,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-06,$889,1 stop,TAP AIR PORTUGAL,LIS,25h 10m,7:30,pm,2:40,pm
+MUC,MIA,2023-08-06,"$1,517",1 stop,Lufthansa,FRA,11h 45m,9:00,am,2:45,pm
+MUC,MIA,2023-08-06,$786,2 stops,LOT,"GDN, WAW",27h 25m,8:10,pm,5:35,pm
+MUC,MIA,2023-08-06,$786,2 stops,LOT,"GDN, WAW",27h 25m,8:10,pm,5:35,pm
+MUC,MIA,2023-08-06,"$1,272",2 stops,KLM,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-06,"$1,517",1 stop,Lufthansa,FRA,12h 45m,8:00,am,2:45,pm
+MUC,MIA,2023-08-06,"$1,475",1 stop,SWISS,ZRH,14h 10m,9:05,am,5:15,pm
+MUC,MIA,2023-08-06,"$1,269",2 stops,KLM,"AMS, DTW",17h 15m,7:00,am,6:15,pm
+MUC,MIA,2023-08-06,"$1,272",2 stops,KLM,"AMS, JFK",17h 21m,11:40,am,11:01,pm
+MUC,MIA,2023-08-06,"$1,357",1 stop,Delta,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-06,$976,2 stops,Icelandair,"KEF, BOS",24h 36m,4:55,pm,11:31,am
+MUC,MIA,2023-08-06,"$1,269",2 stops,KLM,"AMS, ATL",17h 35m,7:00,am,6:35,pm
+MUC,MIA,2023-08-06,"$1,517",1 stop,Lufthansa,FRA,13h 45m,7:00,am,2:45,pm
+MUC,MIA,2023-08-06,"$1,269",2 stops,KLM,"AMS, JFK",17h 58m,7:00,am,6:58,pm
+MUC,MIA,2023-08-06,$711,1 stop,TAP AIR PORTUGAL,LIS,31h 05m,1:35,pm,2:40,pm
+MUC,MIA,2023-08-06,"$1,357",2 stops,Delta,"AMS, DTW",17h 15m,7:00,am,6:15,pm
+MUC,MIA,2023-08-06,"$1,363",2 stops,Delta,"CDG, ATL",17h 20m,7:15,am,6:35,pm
+MUC,MIA,2023-08-06,"$1,357",2 stops,Delta,"AMS, ATL",17h 35m,7:00,am,6:35,pm
+MUC,MIA,2023-08-06,"$1,298",2 stops,Scandinavian Airlines,"CPH, EWR",18h 54m,6:40,am,7:34,pm
+MUC,MIA,2023-08-06,"$1,272",2 stops,KLM,"AMS, ATL",19h 00m,11:40,am,12:40,am
+MUC,MIA,2023-08-07,$676,1 stop,TAP AIR PORTUGAL,LIS,14h 35m,6:05,am,2:40,pm
+MUC,MIA,2023-08-07,$605,1 stop,TAP AIR PORTUGAL,LIS,24h 40m,8:00,pm,2:40,pm
+MUC,MIA,2023-08-07,$773,1 stop,Delta,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-07,$985,1 stop,Lufthansa,FRA,11h 45m,9:00,am,2:45,pm
+MUC,MIA,2023-08-07,$660,1 stop,Air France,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-07,$659,1 stop,LOT,WAW,16h 35m,7:00,am,5:35,pm
+MUC,MIA,2023-08-07,$773,1 stop,Delta,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-07,$656,1 stop,Delta,ATL,18h 18m,10:25,am,10:43,pm
+MUC,MIA,2023-08-07,"$1,036",1 stop,Air Europa,MAD,14h 00m,10:45,am,6:45,pm
+MUC,MIA,2023-08-07,$997,1 stop,Air France,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-07,$838,2 stops,LOT,"KRK, WAW",16h 15m,7:20,am,5:35,pm
+MUC,MIA,2023-08-07,$680,1 stop,"Lufthansa, Air Caraïbes",CDG-ORY,15h 30m,9:50,am,7:20,pm
+MUC,MIA,2023-08-07,$757,1 stop,"Lufthansa, TAP AIR PORTUGAL",LIS,14h 35m,6:05,am,2:40,pm
+MUC,MIA,2023-08-07,$656,1 stop,Delta,ATL,20h 15m,10:25,am,12:40,am
+MUC,MIA,2023-08-07,$871,2 stops,Delta,"CDG, ATL",17h 20m,7:15,am,6:35,pm
+MUC,MIA,2023-08-07,$911,1 stop,Turkish Airlines,IST,18h 10m,7:15,am,7:25,pm
+MUC,MIA,2023-08-07,$997,1 stop,Air France,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-07,$680,1 stop,"Lufthansa, Air Caraïbes",ORY,17h 50m,7:30,am,7:20,pm
+MUC,MIA,2023-08-07,$971,2 stops,Delta,"AMS, JFK",17h 11m,11:50,am,11:01,pm
+MUC,MIA,2023-08-07,$787,2 stops,Air France,"CDG, ATL",19h 20m,7:15,am,8:35,pm
+MUC,MIA,2023-08-07,$987,2 stops,Delta,"AMS, CDG",17h 05m,7:00,am,6:05,pm
+MUC,MIA,2023-08-07,$968,2 stops,Delta,"AMS, ATL",17h 35m,7:00,am,6:35,pm
+MUC,MIA,2023-08-07,$760,1 stop,"Lufthansa, French Bee",CDG-ORY,15h 30m,9:50,am,7:20,pm
+MUC,MIA,2023-08-07,$677,1 stop,"Lufthansa, Air Caraïbes",CDG-ORY,18h 35m,6:45,am,7:20,pm
+MUC,MIA,2023-08-07,"$1,265",1 stop,KLM,ATL,14h 10m,10:25,am,6:35,pm
+MUC,MIA,2023-08-07,$871,2 stops,Delta,"CDG, ATL",19h 20m,7:15,am,8:35,pm
+MUC,MIA,2023-08-07,"$1,357",1 stop,Delta,CDG,14h 10m,9:55,am,6:05,pm
+MUC,MIA,2023-08-07,$973,2 stops,Delta,"CDG, ATL",18h 48m,9:55,am,10:43,pm
+MUC,MIA,2023-08-07,$607,1 stop,TAP AIR PORTUGAL,LIS,25h 10m,7:30,pm,2:40,pm
+MUC,MIA,2023-08-07,"$1,463",1 stop,Lufthansa,FRA,12h 45m,8:00,am,2:45,pm
+MUC,MIA,2023-08-07,$620,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-07,$968,2 stops,Delta,"AMS, ATL",19h 35m,7:00,am,8:35,pm
+MUC,MIA,2023-08-07,$971,2 stops,Delta,"AMS, JFK",19h 36m,9:25,am,11:01,pm
+MUC,MIA,2023-08-07,"$1,463",1 stop,Lufthansa,FRA,13h 45m,7:00,am,2:45,pm
+MUC,MIA,2023-08-07,"$1,265",1 stop,KLM,ATL,16h 10m,10:25,am,8:35,pm
+MUC,MIA,2023-08-07,$620,2 stops,TAP AIR PORTUGAL,"OPO, LIS",23h 10m,9:30,pm,2:40,pm
+MUC,MIA,2023-08-07,$760,1 stop,"Lufthansa, French Bee",ORY,17h 50m,7:30,am,7:20,pm
+MUC,MIA,2023-08-07,"$1,484",1 stop,United Airlines,EWR,13h 40m,9:30,am,5:10,pm
+MUC,MIA,2023-08-07,$871,2 stops,Delta,"CDG, ATL",21h 28m,7:15,am,10:43,pm
+MUC,MIA,2023-08-07,"$1,462",1 stop,SWISS,ZRH,14h 10m,9:05,am,5:15,pm
+MUC,MIA,2023-08-07,$757,1 stop,"Lufthansa, French Bee",CDG-ORY,18h 35m,6:45,am,7:20,pm
+MUC,MIA,2023-08-07,$973,2 stops,Delta,"CDG, ATL",20h 45m,9:55,am,12:40,am
+MUC,MIA,2023-08-07,"$1,272",2 stops,KLM,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-07,"$1,357",1 stop,Delta,CDG,16h 50m,7:15,am,6:05,pm
+MUC,MIA,2023-08-07,$973,2 stops,Delta,"CDG, ATL",21h 28m,7:15,am,10:43,pm
+MUC,MIA,2023-08-07,"$1,462",1 stop,SWISS,ZRH,15h 30m,7:45,am,5:15,pm
+MUC,MIA,2023-08-07,$968,2 stops,Delta,"AMS, ATL",21h 43m,7:00,am,10:43,pm
+MUC,MIA,2023-08-07,$968,2 stops,Delta,"AMS, ATL",21h 43m,7:00,am,10:43,pm
+MUC,MIA,2023-08-07,"$1,269",2 stops,KLM,"AMS, ATL",17h 10m,9:25,am,8:35,pm
+MUC,MIA,2023-08-07,"$1,272",2 stops,KLM,"AMS, JFK",17h 11m,11:50,am,11:01,pm
+MUC,MIA,2023-08-07,"$1,361",2 stops,Delta,"AMS, ATL",16h 35m,2:05,pm,12:40,am
+MUC,MIA,2023-08-07,"$1,269",2 stops,KLM,"AMS, DTW",17h 15m,7:00,am,6:15,pm
+MUC,MIA,2023-08-07,"$1,269",2 stops,KLM,"AMS, ATL",17h 35m,7:00,am,6:35,pm
+MUC,MIA,2023-08-07,"$1,467",1 stop,Lufthansa,EWR,16h 04m,9:30,am,7:34,pm
+MUC,MIA,2023-08-07,"$1,328",2 stops,"LOT, American Airlines","WAW, JFK",17h 19m,9:55,am,9:14,pm
+MUC,MIA,2023-08-07,"$1,479",1 stop,"Lufthansa, United Airlines",JFK-EWR,16h 11m,12:45,pm,10:56,pm
+MUC,MIA,2023-08-07,"$1,484",1 stop,United Airlines,EWR,16h 04m,9:30,am,7:34,pm
+MUC,MIA,2023-08-07,"$1,527",2 stops,Lufthansa,"DUS, FRA",14h 15m,6:30,am,2:45,pm
+MUC,MIA,2023-08-07,"$1,484",1 stop,United Airlines,IAH,16h 09m,11:55,am,10:04,pm
+MUC,MIA,2023-08-07,"$1,357",2 stops,Delta,"AMS, ATL",17h 10m,9:25,am,8:35,pm
+MUC,MIA,2023-08-07,"$1,269",2 stops,KLM,"AMS, JFK",17h 58m,7:00,am,6:58,pm
+MUC,MIA,2023-08-07,"$1,465",2 stops,Air Canada,"FRA, YUL",15h 49m,12:00,pm,9:49,pm
+MUC,MIA,2023-08-07,"$1,357",2 stops,Delta,"AMS, DTW",17h 15m,7:00,am,6:15,pm
+MUC,MIA,2023-08-07,"$1,376",2 stops,Delta,"AMS, CDG",17h 05m,7:00,am,6:05,pm
+MUC,MIA,2023-08-07,"$1,502",2 stops,SWISS,"GVA, ZRH",15h 30m,7:45,am,5:15,pm
+MUC,MIA,2023-08-07,"$1,502",2 stops,SWISS,"GVA, ZRH",15h 30m,7:45,am,5:15,pm
+MUC,MIA,2023-08-07,"$1,333",2 stops,"Scandinavian Airlines, American Airlines","ARN, ORD",17h 54m,6:05,am,5:59,pm
+MUC,MIA,2023-08-07,"$1,465",2 stops,"Lufthansa, Air Canada","FRA, YUL",15h 49m,12:00,pm,9:49,pm
+MUC,MIA,2023-08-07,"$1,479",1 stop,"Lufthansa, United Airlines",JFK-EWR,16h 52m,12:45,pm,11:37,pm
+MUC,MIA,2023-08-07,"$1,498",1 stop,"Lufthansa, ANA",IAH,16h 09m,11:55,am,10:04,pm
+MUC,MIA,2023-08-07,"$1,484",1 stop,United Airlines,ORD,16h 46m,11:30,am,10:16,pm
+MUC,MIA,2023-08-07,"$1,486",2 stops,United Airlines,"FRA, EWR",15h 37m,11:00,am,8:37,pm
+MUC,MIA,2023-08-07,"$1,362",2 stops,Delta,"CDG, JFK",17h 43m,7:15,am,6:58,pm
+MUC,MIA,2023-08-07,"$1,363",2 stops,Delta,"CDG, JFK",17h 43m,7:15,am,6:58,pm
+MUC,MIA,2023-08-07,"$1,479",1 stop,Air Canada,YYZ,16h 36m,11:50,am,10:26,pm

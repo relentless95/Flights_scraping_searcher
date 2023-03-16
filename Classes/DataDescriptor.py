@@ -19,7 +19,7 @@ class DataDescriptor:
         # Display  three airlines with the lowest price.
         #  We group the rows in df by airline and find the average price for each airline.
         avg_price_airline = self.df.groupby('airline_names')['price'].mean().nsmallest(3)
-        return print(f"\nTop 3 cheapest flights by airlines: {avg_price_airline}")
+        return print(f"\nThe average price per airline (top of the cheapest airlines' combinations): {avg_price_airline}")
 
     def average_price_number_stop(self):
         # Calculate the average price per num stops.
@@ -35,6 +35,9 @@ class DataDescriptor:
         # Create a plot that shows the average flight price per date
         df_date = self.df.groupby('start_date')['price'].mean()
         plt.figure(figsize=(16, 8))
+        plt.xlabel('Date')
+        plt.ylabel('Price ($)')
+        plt.title('Average Price Vs Date')
         plt.plot(df_date)
         plt.xticks(rotation=85)
         return plt.show()
@@ -42,7 +45,7 @@ class DataDescriptor:
     def plot_flights_per_airline(self):
         # Count of flights v/s Airline
         plt.figure(figsize=(15, 10))
-        plt.title('Count of flights with different Airlines')
+        plt.title('Count of flights VS Airline')
         ax = sns.countplot(x='airline_names', data=self.df)
         plt.xlabel('Airline')
         plt.ylabel('Count of flights')
@@ -53,8 +56,8 @@ class DataDescriptor:
 
     def plot_average_price_per_airline(self):
         # Airline vs AveragePrice
-        dvsp1 = sns.barplot(x='airline_names', y='price', data=self.df)
-        dvsp1.set_title('Airline V/S PRICE')
-        dvsp1.set_ylabel('Price')
+        dvsp1 = sns.barplot(x='airline_names', y='price', errorbar=None, data=self.df)
+        dvsp1.set_title('Average Price Vs Airline')
+        dvsp1.set_ylabel('Price ($)')
         dvsp1.set_xticklabels(dvsp1.get_xticklabels(), rotation=80)
         return plt.show()
