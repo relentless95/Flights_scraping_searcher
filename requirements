@@ -2,9 +2,23 @@ Libraries:
 pandas == 1.5.2
 mathplotlib == 3.6.2
 seaborn == 0.12.1
+selenium == 4.6.0
+pandas == 1.4.2
+beautifulsoup4 == 4.9.3
 
 'Classes' package:
 Class_FileManager.py
 Class_DataTransformer.py
 Class_DataDescriptor.py
 Class_Search.py
+Task.py
+Parser.py
+
+Additional instructions for the webscraper
+instructions!:
+If you do not have selenium install it with: pip install -U selenium
+The driver uses the chrome driver to work. Alternatively you can adjust the code to run with another browser.
+Go to https://pypi.org/project/selenium/ and download the appropriate version of the driver.
+You can check your version of chrome with: chrome://version
+Set the driver path in the Task.py class.
+It is important that the executable file is located in the flights_scraping_searcher folder
